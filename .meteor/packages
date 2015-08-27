@@ -8,6 +8,6 @@ meteor-platform
 autopublish
 insecure
 kenton:accounts-sandstorm
-mike:mocha
 iron:router
 materialize:materialize
+sanjo:jasmine
